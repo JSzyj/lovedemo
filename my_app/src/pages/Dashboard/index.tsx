@@ -7,9 +7,7 @@ const { Cell } = ResponsiveGrid;
 const Dashboard = () => {
   return (
     <ResponsiveGrid gap={20}>
-      <Cell colSpan={12}>
-        <Guide />
-      </Cell>
+    111
     </ResponsiveGrid>
   );
 };
