@@ -1,2 +1,5 @@
-@import '~antd/dist/antd.css'
-
+@import '~antd/dist/antd.css';
+.App {
+    width: 400px;
+    margin: 50px auto;
+}
